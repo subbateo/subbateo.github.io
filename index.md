@@ -1,4 +1,6 @@
-#Tornei di Subbuteo
+---
+title: Tornei di Subbuteo
+---
 
 Pagina ufficiale dei tornei di Subbuteo
 
