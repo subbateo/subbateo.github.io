@@ -7,7 +7,7 @@ Pagina ufficiale dei tornei di Subbuteo
 
 | Girone A | |
 |---|---|
-| ![](thumb/real.png) (Tomer) Real Madrid-Ivan    | 2-0 |
+| ![](thumb/real.png | width=12) (Tomer) Real Madrid-Ivan    | 2-0 |
 | Leo-Michele   | 0-0 |
 | Tomer-Defa    | 2-0 |
 | Ivan-Michele  | 2-0 |
