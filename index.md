@@ -8,10 +8,10 @@ Pagina ufficiale dei tornei di Subbuteo
 | Girone A | |
 |---|---|
 | <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid-Ivan    | 2-0 |
-| Leo-Michele   | 0-0 |
-| Tomer-Defa    | 2-0 |
-| Ivan-Michele  | 2-0 |
-| Tomer-Michele | 0-0 |
+| Leo-<img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow   | 0-0 |
+| <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid-Defa    | 2-0 |
+| Ivan-<img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow  | 2-0 |
+| <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid-Michele | 0-0 |
 | Leo-Ivan      | 0-0 |
 |---|---| 
 
@@ -20,21 +20,21 @@ Pagina ufficiale dei tornei di Subbuteo
 |---|---|
 | Silvia-bobbe   | 0-0 |
 | Silvia-Dino    | 0-0 |
-| Silvia-Cesare  | 0-1 |	
+| Silvia-<img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors  | 0-1 |	
 | Dino-Bobbe     | 1-0 |
-| Dino-Cesare    | 0-2 |
-| Cesare-Bobbe   | 1-1 |
+| Dino-<img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors    | 0-2 |
+| <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors-Bobbe   | 1-1 |
 |---|---| 
 
 | Semifinali | |
 |---|---|
-| Ivan-Cesare | 1-1* (dcr) |
-| Tomer-Dino  | 1-0 (gg)  |
+| Ivan-<img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors | 1-1* (dcr) |
+| <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid-Dino  | 1-0 (gg)  |
 |---|---|
 
 | Finale | |
 |---|---|
-| Tomer-Cesare | 0-0* (dcr) |
+| <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid-<img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors | 0-0* (dcr) |
 |---|---|
 
 
