@@ -13,7 +13,6 @@ Pagina ufficiale dei tornei di Subbuteo
 | <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow  | 2-0 |
 | <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 0-0 |
 | <img src="/thumb/rangers.png" width="18"> (Leo) Glasgow Rangers | <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev      | 0-0 |
-|---|---|---|
 
 
 | Girone B | |
