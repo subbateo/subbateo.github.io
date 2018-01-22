@@ -6,7 +6,7 @@ Pagina ufficiale dei tornei di Subbuteo
 ## Secondo Torneo (21/01/2018)
 
 | Girone A ||
-|---|
+|--------------|
 | <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid | <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev    | 2-0 |
 | <img src="/thumb/rangers.png" width="18"> (Leo) Glasgow Rangers | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow   | 0-0 |
 | <img src="/thumb/real.png" width="18"> (Tomer) Real Madrid | <img src="/thumb/rangers.png" width="18"> (Leo) Glasgow Rangers    | 2-0 |
