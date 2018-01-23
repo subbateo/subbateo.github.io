@@ -22,7 +22,7 @@ title: Secondo torneo
 |---|---|---|---|---|
 | <img src="/thumb/rangers.png" width="18"> (Tomer) Glasgow Rangers | 2 | 1 | 0 | 4 | 0 | +4 | 7 |
 | <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
-| <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 1 | 1 | 1 | 2 | 2 | 0 | 4 |
+| <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 0 | 2 | 1 | 0 | 2 | -2 | 2 |
 | <img src="/thumb/real.png" width="18"> (Leo) Real Madrid | 0 | 2 | 1 | 0 | 2 | -2 | 2 |
 
 ### Girone B
