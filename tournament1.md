@@ -48,5 +48,5 @@ title: Primo torneo
 
 ### Finale
 
-| <img src="/thumb/rangers.png" width="18"> (Tomer) Glasgow Rangers | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 1-0 |
+| <img src="/thumb/flamengo.png" width="18"> (Dino) Flamengo | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 1-0 |
 
