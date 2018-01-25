@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Subbateo online"
+title:  Subbateo online
 date:   2018-01-24 11:40:05 +0100
-categories: jekyll update
+categories: news subbateo
 ---
 
 Online la pagina ufficiale del Subbateo!

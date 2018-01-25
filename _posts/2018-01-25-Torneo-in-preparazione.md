@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Torneo in preparazione
+date:   2018-01-25 13:50:05 +0100
 author: Gabo
+categories: news tornei subbateo
 ---
 
 *By {{page.author}}*
