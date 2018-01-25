@@ -14,11 +14,11 @@ title: Galleria
 ## Video
 
 ### Gol in finale
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="media/video/finale.mp4" type="video/mp4">
 </video>
 
 ### Dribbling
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="media/video/numero.mp4" type="video/mp4">
 </video>
