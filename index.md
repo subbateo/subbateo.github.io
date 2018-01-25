@@ -6,4 +6,7 @@ title: Home
 Pagina ufficiale dei tornei di Subbuteo
 
 
+### Risorse utili
 
+- [Regolamento ufficiale](/data/regolamento.pdf)
+- [Federazione Italiana](http://www.fisct.it/)
