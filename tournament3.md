@@ -20,12 +20,12 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 #### Risultati
 
 |---
-| {{page.michele}} | {{page.sape}}    | - |
-| {{page.cesare}} | {{page.borro}}    | - |
-| {{page.michele}} | {{page.borro}}   | - |
-| {{page.sape}} | {{page.cesare}}    | - |
+| {{page.michele}} | {{page.sape}}    | 1-0 |
+| {{page.cesare}} | {{page.borro}}    | 0-3 |
+| {{page.michele}} | {{page.borro}}   | 0-3 |
+| {{page.sape}} | {{page.cesare}}    | 0-1 |
 | {{page.michele}} | {{page.cesare}}    | - |
-| {{page.borro}} | {{page.sape}}    | - |
+| {{page.borro}} | {{page.sape}}    | 0-3 |
 {: .pure-table}
 
 #### Classifica
@@ -44,8 +44,8 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 #### Risultati
 
 |---
-| {{page.lomba}} | {{page.dino}}    | - |
-| {{page.tomer}} | {{page.gabo}}    | - |
+| {{page.lomba}} | {{page.dino}}    | 0-0 |
+| {{page.tomer}} | {{page.gabo}}    | 1-0 |
 | {{page.lomba}} | {{page.gabo}}   | - |
 | {{page.dino}} | {{page.tomer}}    | - |
 | {{page.lomba}} | {{page.tomer}}    | - |
