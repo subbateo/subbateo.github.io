@@ -70,7 +70,7 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 | Prima Girone B | Seconda Girone A | - | 
 {: .pure-table}
 
-### Finale
+### Finale (Maracanà di Belgrado)
 
 |---
 | Vincente Semifinale 1 | Vincente Semifinale 2 | - |

@@ -62,7 +62,7 @@ title: Secondo torneo
 | <img src="/thumb/rangers.png" width="18"> (Tomer) Glasgow Rangers | <img src="/thumb/barca.png" width="18"> (Dino) Barcellona  | 1-0 (gg)  |
 {: .pure-table}
 
-### Finale
+### Finale (Parco dei principi)
 
 |---
 | <img src="/thumb/rangers.png" width="18"> (Tomer) Glasgow Rangers | <img src="/thumb/rosenborg.png" width="18"> (Cesare) Rosenborg | 0-0* (dcr) |

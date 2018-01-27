@@ -53,7 +53,7 @@ title: Primo torneo
 | <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors | <img src="/thumb/flamengo.png" width="18"> (Dino) Flamengo  | 1-1* (dcr)  |
 {: .pure-table}
 
-### Finale
+### Finale (Bernabeu)
 
 | <img src="/thumb/flamengo.png" width="18"> (Dino) Flamengo | <img src="/thumb/celtic.png" width="18"> (Michele) Celtic Glasgow | 1-0 |
 {: .pure-table}
