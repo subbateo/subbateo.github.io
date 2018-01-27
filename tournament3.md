@@ -24,7 +24,7 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 | {{page.cesare}} | {{page.borro}}    | 0-3 |
 | {{page.michele}} | {{page.borro}}   | 0-3 |
 | {{page.sape}} | {{page.cesare}}    | 0-1 |
-| {{page.michele}} | {{page.cesare}}    | - |
+| {{page.michele}} | {{page.cesare}}    | 0-1 |
 | {{page.borro}} | {{page.sape}}    | 0-3 |
 {: .pure-table}
 
@@ -33,10 +33,10 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 |---
 | Squadra | V | P | S | GF | GS | DR | Pti |
 |---------|
-| {{page.cesare}} |  |  |  |  |  |  |  |
-| {{page.michele}} |  |  |  |  |  |  |  |
-| {{page.borro}} |  |  |  |  |  |  |  |
-| {{page.sape}} |  |  |  |  |  |  |  |
+| {{page.cesare}} | 3 | 0 | 0 | 6 | 0 | +6 | 9 |
+| {{page.michele}} | 2 | 0 | 1 | 5 | 1 | +4 | 6 |
+| {{page.sape}} | 1 | 0 | 2 | 3 | 2 | +1 | 3 |
+| {{page.borro}} | 0 | 0 | 3 | 0 | 9 | -9 | 0 |
 {: .pure-table}
 
 ### Girone B
@@ -46,10 +46,10 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 |---
 | {{page.lomba}} | {{page.dino}}    | 0-0 |
 | {{page.tomer}} | {{page.gabo}}    | 1-0 |
-| {{page.lomba}} | {{page.gabo}}   | - |
-| {{page.dino}} | {{page.tomer}}    | - |
-| {{page.lomba}} | {{page.tomer}}    | - |
-| {{page.gabo}} | {{page.dino}}    | - |
+| {{page.lomba}} | {{page.gabo}}   | 0-1 |
+| {{page.dino}} | {{page.tomer}}    | 0-0 |
+| {{page.lomba}} | {{page.tomer}}    | 0-1 |
+| {{page.gabo}} | {{page.dino}}    | 0-0 |
 {: .pure-table}
 
 #### Classifica
@@ -57,22 +57,22 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 |---
 | Squadra | V | P | S | GF | GS | DR | Pti |
 |---|---|---|---|---|
-| {{page.tomer}} |  |  |  |  |  |  |  |
-| {{page.lomba}} |  |  |  |  |  |  |  |
-| {{page.gabo}} |  |  |  |  |  |  |  |
-| {{page.dino}} |  |  |  |  |  |  |  |
+| {{page.tomer}} | 3 | 0 | 0 | 3 | 0 | +3 | 9 |
+| {{page.gabo}} | 1 | 1 | 1 | 1 | 1 | 0 | 4 |
+| {{page.dino}} | 0 | 3 | 0 | 0 | 0 | 0 | 3 |
+| {{page.lomba}} | 0 | 1 | 2 | 0 | 2 | -2 | 1 |
 {: .pure-table}
 
 ### Semifinali
 
 |---
-| Prima Girone A | Seconda Girone B | - |
-| Prima Girone B | Seconda Girone A | - | 
+| {{page.cesare}} | {{page.gabo}} | 0-1 |
+| {{page.tomer}} | {{page.michele}} | 2-0 | 
 {: .pure-table}
 
 ### Finale (Maracanà di Belgrado)
 
 |---
-| Vincente Semifinale 1 | Vincente Semifinale 2 | - |
+| {{page.tomer}} | {{page.gabo}} | 3-1 |
 {: .pure-table}
 
