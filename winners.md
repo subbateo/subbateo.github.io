@@ -11,3 +11,7 @@ title: Albo d'oro
 
 <img src="/thumb/rosenborg.png" width="18"> (Cesare) Rosenborg
 
+## Terza edizione
+
+<img src="/thumb/samp.png" width="18"> (Tomer) Sampdoria
+
