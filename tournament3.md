@@ -57,7 +57,7 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 |---
 | Squadra | V | P | S | GF | GS | DR | Pti |
 |---|---|---|---|---|
-| {{page.tomer}} | 3 | 0 | 0 | 3 | 0 | +3 | 9 |
+| {{page.tomer}} | 2 | 1 | 0 | 3 | 0 | +3 | 7 |
 | {{page.gabo}} | 1 | 1 | 1 | 1 | 1 | 0 | 4 |
 | {{page.dino}} | 0 | 3 | 0 | 0 | 0 | 0 | 3 |
 | {{page.lomba}} | 0 | 1 | 2 | 0 | 2 | -2 | 1 |
