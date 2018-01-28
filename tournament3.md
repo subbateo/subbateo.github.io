@@ -21,8 +21,8 @@ dino: <img src="/thumb/ajax.png" width="18"> (Dino) Ajax
 
 |---
 | {{page.michele}} | {{page.sape}}    | 1-0 |
-| {{page.cesare}} | {{page.borro}}    | 0-3 |
-| {{page.michele}} | {{page.borro}}   | 0-3 |
+| {{page.cesare}} | {{page.borro}}    | 3-0 |
+| {{page.michele}} | {{page.borro}}   | 3-0 |
 | {{page.sape}} | {{page.cesare}}    | 0-1 |
 | {{page.michele}} | {{page.cesare}}    | 0-1 |
 | {{page.borro}} | {{page.sape}}    | 0-3 |
