@@ -1,0 +1,12 @@
+- title: Subbateo
+  url: /
+
+- title: Tornei
+  url: /group/
+  sublinks:
+    - title: Primo torneo
+      url: /tournament1
+    - title: Secondo torneo
+      url: /tournament2
+    - title: Teszo torneo
+      url: /tournament3

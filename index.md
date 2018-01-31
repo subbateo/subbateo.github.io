@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Subbateo
 ---
 
 Pagina ufficiale dei tornei di Subbuteo
