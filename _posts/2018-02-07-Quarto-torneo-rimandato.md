@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quarto torneo 
+title: Quarto torneo rimandato?
 date:   2018-02-07 08:50:05 +0100
 author: Gabo
 categories: news tornei subbateo
