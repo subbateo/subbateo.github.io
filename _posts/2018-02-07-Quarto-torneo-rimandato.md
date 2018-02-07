@@ -13,4 +13,4 @@ La notizia sta ormai circolando da ore in rete e sembra ormai definitiva: **il q
 I principali protagonisti non hanno voluto rilasciare commenti sulla vicenda. Anche se per adesso non si parla ancora di una nuova data, sembra che potranno essere organizzate **amichevoli di lusso** per mantenere viva l'attesa per l'evento che tutti attendono.
 
 
-<a href="whatsapp://send?text={{page.url}}" data-action="share/whatsapp/share">Condividi via Whatsapp</a>
+<a href="whatsapp://send?text={{site.url}}{{page.url}}" data-action="share/whatsapp/share">Condividi via Whatsapp</a>
