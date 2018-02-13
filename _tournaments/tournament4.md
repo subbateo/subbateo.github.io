@@ -60,7 +60,7 @@ dino: <img src="/thumb/barca.png" width="18"> (Dino) Barcellona
 | {{page.ivan}} | {{page.lomba}} | 1-0 | 
 {: .pure-table}
 
-### Finale (Maracanà di Belgrado)
+### Finale (Old Trafford)
 
 |---
 | {{page.tomer}} | {{page.ivan}} | 2-0 |
