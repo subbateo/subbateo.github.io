@@ -5,7 +5,7 @@ cesare: <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors
 borro: <img src="/thumb/manutd.png" width="18"> (Borro) Manchester Utd
 tomer: <img src="/thumb/sanlorenzo.png" width="18"> (Tomer) San Lorenzo
 lomba: <img src="/thumb/sanpaolo.png" width="18"> (Lomba) San Paolo
-Ivan: <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev
+ivan: <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev
 dino: <img src="/thumb/barca.png" width="18"> (Dino) Barcellona
 ---
 
