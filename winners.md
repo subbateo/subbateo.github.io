@@ -31,7 +31,7 @@ title: Albo d'oro
 
 ---------
 
-### Classifica insulsa
+## Classifica insulsa
 
 La **classifica insulsa** si basa sull'assegnamento di punti in base ai risultati ottenuti nei tornei.
 I punti base vengono calcolati sommando quelli ottenuti secondo lo schema seguente.
