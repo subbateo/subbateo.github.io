@@ -23,4 +23,4 @@ In finale però il sogno finisce e la sua prestazione è da 4: 5 occasioni nitid
 
 **Tomer voto 8,5**: in tutto il torneo soffre solo con l'Atletico di Lombardo: scherza con una suocera ormai sul viale del tramonto e vince una finale chiudendola già in 5 minuti: il Gabo fa un buon torneo ma per la finale non è pronto: il fraseggio della Samp è quasi perfetto e i doriani arrivano al tiro con troppa facilità, 3 gol di pregevole fattura: è una finale ma sembra una gara amichevole tra titolari e riserve. Avrebbe forse più sofferto contro Zetti almeno sulla carta e per il peso psicologico della scorsa finale ma questa Sampdoria sarebbe stato troppo anche per il Galatasaray: *è la squadra da battere fatevi avanti*
 
-<a href="whatsapp://send?text={{page.url}}" data-action="share/whatsapp/share">Condividi via Whatsapp</a>
+<a href="whatsapp://send?text={{site.url}}{{page.url}}" data-action="share/whatsapp/share">Condividi via Whatsapp</a>
