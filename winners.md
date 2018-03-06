@@ -56,16 +56,16 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 
 | &#35; | Giocatore | Pti | |
 |---|---|---|
-| 1 | Tomer | 6.60 | {{site.eq}} |
-| 2 | Cesare | 4.20 | {{site.eq}} |
-| 3 | Dino | 2.60 | {{site.up}} |
-| 4 | Gabo | 2.50 | {{site.dw}} |
-| 5 | Michele | 1.83 | {{site.eq}} |
-| 6 | Ivan | 1.67 | {{site.eq}} |
-| 7 | Lomba | 0.6 | {{site.up}} |
-| 8 | Leo | 0.5 | {{site.eq}} |
-| 8 | Sape | 0.5 | {{site.dw}} |
-| 8 | Silvia | 0.5 | {{site.eq}} |
-| 11 | Borro | 0 | {{site.eq}} |
+| 1 | Tomer | 6.60 | {{page.eq}} |
+| 2 | Cesare | 4.20 | {{page.eq}} |
+| 3 | Dino | 2.60 | {{page.up}} |
+| 4 | Gabo | 2.50 | {{page.dw}} |
+| 5 | Michele | 1.83 | {{page.eq}} |
+| 6 | Ivan | 1.67 | {{page.eq}} |
+| 7 | Lomba | 0.6 | {{page.up}} |
+| 8 | Leo | 0.5 | {{page.eq}} |
+| 8 | Sape | 0.5 | {{page.dw}} |
+| 8 | Silvia | 0.5 | {{page.eq}} |
+| 11 | Borro | 0 | {{page.eq}} |
 {: .pure-table}
 
