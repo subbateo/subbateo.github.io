@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Albo d'oro
+up: <img src="/icons/up.png" width="18">
+dw: <img src="/icons/down.png" width="18">
+eq: <img src="/icons/eq.png" width="18">
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
@@ -51,18 +54,18 @@ In caso di parità nel girone, i punti vengono sommati e divisi equamente (es. d
 I punti così calcolati vengono normalizzati calcolando la media aritmetica sulle partecipazioni. 
 Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *strettamente inferiore* al 20%.
 
-| &#35; | Giocatore | Pti |
+| &#35; | Giocatore | Pti | |
 |---|---|---|
-| 1 | Tomer | 6.60 |
-| 2 | Cesare | 4.20 | 
-| 3 | Dino | 2.60 |
-| 4 | Gabo | 2.50 |
-| 5 | Michele | 1.83 |
-| 6 | Ivan | 1.67 |
-| 7 | Lomba | 0.6 |
-| 8 | Leo | 0.5 |
-| 8 | Sape | 0.5 |
-| 8 | Silvia | 0.5 |
-| 11 | Borro | 0 | 
+| 1 | Tomer | 6.60 | {{site.eq}} |
+| 2 | Cesare | 4.20 | {{site.eq}} |
+| 3 | Dino | 2.60 | {{site.up}} |
+| 4 | Gabo | 2.50 | {{site.dw}} |
+| 5 | Michele | 1.83 | {{site.eq}} |
+| 6 | Ivan | 1.67 | {{site.eq}} |
+| 7 | Lomba | 0.6 | {{site.up}} |
+| 8 | Leo | 0.5 | {{site.eq}} |
+| 8 | Sape | 0.5 | {{site.dw}} |
+| 8 | Silvia | 0.5 | {{site.eq}} |
+| 11 | Borro | 0 | {{site.eq}} |
 {: .pure-table}
 
