@@ -65,9 +65,9 @@ gabo: <img src="/thumb/hungary.png" width="18"> (Gabo) Ungheria
 | {{page.dino}} | {{page.tomer}} | 0-1 | 
 {: .pure-table}
 
-### Finale (Old Trafford)
+### Finale (Louis II)
 
 |---
-| {{page.cesare}} | {{page.tomer}} | 2-1 |
+| {{page.cesare}} | {{page.tomer}} | 1-2 |
 {: .pure-table}
 

@@ -29,6 +29,12 @@ title: Albo d'oro
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/dinamo.png" width="18"> (Ivan) Dinamo Kiev
 
+## Quinto torneo
+
+<img src="/icons/trophy.png" width="18"> tomer: <img src="/thumb/argentina.png" width="18"> (Tomer) Argentina
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/uruguay.png" width="18"> (Cesare) Uruguay
+
 ---------
 
 ## Classifica insulsa
@@ -47,15 +53,15 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 
 | &#35; | Giocatore | Pti |
 |---|---|---|
-| 1 | Tomer | 6.25 |
-| 2 | Cesare | 4 | 
-| 2 | Gabo | 4 |
-| 4 | Dino | 2.75 |
+| 1 | Tomer | 6.60 |
+| 2 | Cesare | 4.20 | 
+| 3 | Dino | 2.60 |
+| 4 | Gabo | 2.50 |
 | 5 | Michele | 1.83 |
-| 6 | Ivan | 1.66 |
-| 7 | Sape | 1 |
-| 8 | Lomba | 0.5 |
+| 6 | Ivan | 1.67 |
+| 7 | Lomba | 0.6 |
 | 8 | Leo | 0.5 |
+| 8 | Sape | 0.5 |
 | 8 | Silvia | 0.5 |
 | 11 | Borro | 0 | 
 {: .pure-table}
