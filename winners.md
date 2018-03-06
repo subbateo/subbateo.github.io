@@ -31,7 +31,7 @@ title: Albo d'oro
 
 ## Quinto torneo
 
-<img src="/icons/trophy.png" width="18"> tomer: <img src="/thumb/argentina.png" width="18"> (Tomer) Argentina
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/argentina.png" width="18"> (Tomer) Argentina
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/uruguay.png" width="18"> (Cesare) Uruguay
 
