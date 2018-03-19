@@ -38,6 +38,12 @@ eq: <img src="/icons/eq.png" width="18">
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/uruguay.png" width="18"> (Cesare) Uruguay
 
+## Sesto torneo
+
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/benfica.png" width="18"> (Tomer) Benfica
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/goteborg.png" width="18"> (Cesare) Goteborg
+
 ---------
 
 ## Classifica insulsa
