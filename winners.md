@@ -44,6 +44,13 @@ eq: <img src="/icons/eq.png" width="18">
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/goteborg.png" width="18"> (Cesare) Goteborg
 
+## Settimo torneo
+
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/colo.png" width="18"> (Tomer) Colo colo
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors
+
+
 ---------
 
 ## Classifica insulsa
@@ -62,16 +69,18 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 
 | &#35; | Giocatore | Pti | |
 |---|---|---|
-| 1 | Tomer | 6.60 | {{page.eq}} |
-| 2 | Cesare | 4.20 | {{page.eq}} |
-| 3 | Dino | 2.60 | {{page.up}} |
-| 4 | Gabo | 2.50 | {{page.dw}} |
-| 5 | Michele | 1.83 | {{page.eq}} |
+| 1 | Tomer | 7.00 | {{page.eq}} |
+| 2 | Cesare | 4.00 | {{page.eq}} |
+| 3 | Gabo | 2.50 | {{page.up}} |
+| 4 | Dino | 1.86 | {{page.dw}} |
+| 5 | Michele | 1.80 | {{page.eq}} |
 | 6 | Ivan | 1.67 | {{page.eq}} |
-| 7 | Lomba | 0.6 | {{page.up}} |
-| 8 | Leo | 0.5 | {{page.eq}} |
-| 8 | Sape | 0.5 | {{page.dw}} |
-| 8 | Silvia | 0.5 | {{page.eq}} |
-| 11 | Borro | 0 | {{page.eq}} |
+| 7 | Lomba | 0.79 | {{page.up}} |
+| 8 | Leo | 0.50 | {{page.eq}} |
+| 9 | Sape | 0.50 | {{page.eq}} |
+| 10 | Borro | 0.00 | {{page.eq}} |
+| 11 | Silvia | 0.00 | {{page.dw}} |
+| 12 | Vale | 0.00 | {{page.eq}} |
+
 {: .pure-table}
 
