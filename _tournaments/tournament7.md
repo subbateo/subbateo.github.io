@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Sesto torneo
-cesare: <img src="/thumb/goteborg.png" width="18"> (Cesare) Goteborg
-vale: <img src="/thumb/betis.png" width="18"> (Vale) Betis
-tomer: <img src="/thumb/benfica.png" width="18"> (Tomer) Benfica
-lomba: <img src="/thumb/parma.png" width="18"> (Lomba) Parma
-michele: <img src="/thumb/celtic.png" width="18"> (Michele) Celtic
-dino: <img src="/thumb/everton.png" width="18"> (Dino) Everton
+cesare: <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors
+borro: <img src="/thumb/medellin.png" width="18"> (Borro) Medellin
+tomer: <img src="/thumb/colo.png" width="18"> (Tomer) Colo Colo
+lomba: <img src="/thumb/sanpaolo.png" width="18"> (Lomba) San Paolo
+michele: <img src="/thumb/river.png" width="18"> (Michele) River Plate
+dino: <img src="/thumb/sanlorenzo.png" width="18"> (Dino) San Lorenzo
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
@@ -18,9 +18,9 @@ dino: <img src="/thumb/everton.png" width="18"> (Dino) Everton
 #### Risultati
 
 |---
-| {{page.tomer}} | {{page.cesare}}    | 0-0 |
-| {{page.tomer}} | {{page.vale}}    | 5-0 |
-| {{page.cesare}} | {{page.vale}}   | 2-0 |
+| {{page.dino}} | {{page.cesare}}    | 1-2 |
+| {{page.tomer}} | {{page.cesare}}    | 3-1 |
+| {{page.tomer}} | {{page.dino}}   | 2-0 |
 {: .pure-table}
 
 #### Classifica
@@ -28,9 +28,9 @@ dino: <img src="/thumb/everton.png" width="18"> (Dino) Everton
 |---
 | Squadra | V | P | S | GF | GS | DR | Pti |
 |---------|
-| {{page.tomer}} | 1 | 1 | 0 | 5 | 0 | +5 | 4 |
-| {{page.cesare}} | 1 | 1 | 0 | 2 | 0 | +2 | 4 |
-| {{page.vale}} | 0 | 0 | 2 | 0 | 7 | -7 | 0 |
+| {{page.tomer}} | 2 | 0 | 0 | 5 | 1 | +4 | 6 |
+| {{page.cesare}} | 1 | 0 | 1 | 3 | 3 | 0 | 3 |
+| {{page.dino}} | 0 | 0 | 2 | 1 | 4 | -3 | 0 |
 {: .pure-table}
 
 ### Girone B
@@ -38,9 +38,9 @@ dino: <img src="/thumb/everton.png" width="18"> (Dino) Everton
 #### Risultati
 
 |---
-| {{page.michele}} | {{page.dino}}    | 1-0 |
-| {{page.michele}} | {{page.lomba}}    | 1-1 |
-| {{page.lomba}} | {{page.dino}}   | 1-0 |
+| {{page.michele}} | {{page.borro}}    | 3-0 |
+| {{page.lomba}} | {{page.borro}}    | 1-0 |
+| {{page.lomba}} | {{page.michele}}   | 0-1 |
 {: .pure-table}
 
 #### Classifica
@@ -48,19 +48,19 @@ dino: <img src="/thumb/everton.png" width="18"> (Dino) Everton
 |---
 | Squadra | V | P | S | GF | GS | DR | Pti |
 |---|---|---|---|---|
-| {{page.lomba}} | 1 | 1 | 0 | 2 | 1 | +1 | 4 |
-| {{page.michele}} | 1 | 1 | 0 | 2 | 1 | +1 | 4 |
-| {{page.dino}} | 0 | 0 | 2 | 0 | 2 | -2 | 0 |
+| {{page.michele}} | 2 | 0 | 0 | 4 | 0 | +4 | 6 |
+| {{page.lomba}} | 1 | 0 | 1 | 1 | 1 | 0 | 3 |
+| {{page.borro}} | 0 | 0 | 2 | 0 | 4 | -4 | 0 |
 {: .pure-table}
 
 ### Semifinali
 
 |---
-| {{page.cesare}} | {{page.lomba}} | 2-0 |
-| {{page.michele}} | {{page.tomer}} | 0-1 |
+| {{page.tomer}} | {{page.lomba}} | 4-0 |
+| {{page.cesare}} | {{page.michele}} | 0-0 (3-1 DTL) |
 {: .pure-table}
 
-### Finale (Estadio Da Luz)
+### Finale (Stadio Malvinas Argentinas)
 
 |---
 | {{page.cesare}} | {{page.tomer}} | 0-1 |
