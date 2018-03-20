@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sesto torneo
+title: Settimo torneo
 cesare: <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors
 borro: <img src="/thumb/medellin.png" width="18"> (Borro) Medellin
 tomer: <img src="/thumb/colo.png" width="18"> (Tomer) Colo Colo
