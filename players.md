@@ -113,7 +113,7 @@ Non sempre però le sue giocate sono al livello dei suoi schemi.
 | ![](/thumb/betis.png){:height="18px"} | Real Betis | |
 | ![](/thumb/real.png){:height="18px"} | Real Madrid | |
 | ![](/thumb/river.png){:height="18px"} | River Plate | |
-| ![](/thumb/roenborg.png){:height="18px"} | Rosenborg | |
+| ![](/thumb/rosenborg.png){:height="18px"} | Rosenborg | |
 | ![](/thumb/samp.png){:height="18px"} | Sampdoria | |
 | ![](/thumb/spezia.png){:height="18px"} | Spezia | |
 | ![](/thumb/tottenham.png){:height="18px"} | Tottenham | |
