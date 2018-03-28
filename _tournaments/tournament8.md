@@ -70,7 +70,7 @@ psg: <img src="/thumb/psg.png" width="18"> (Silvia) PSG
 | {{page.milan}} | {{page.tottenham}} | 0-0 (0-3 DTL) |
 {: .pure-table}
 
-### Finale 
+### Finale (Olympiastadion)
 
 |---
 | {{page.tottenham}} | {{page.liverpool}} | 0-2 |
