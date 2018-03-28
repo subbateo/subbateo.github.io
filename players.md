@@ -96,12 +96,14 @@ Non sempre però le sue giocate sono al livello dei suoi schemi.
 | ![](/thumb/colo.png){:height="18px"} | Colo Colo | |
 | ![](/thumb/dinamo.png){:height="18px"} | Dinamo Kiev | |
 | ![](/thumb/everton.png){:height="18px"} | Everton | |
+| ![](/thumb/feyenoord.png){:height="18px"} | Feyenoord | |
 | ![](/thumb/flamengo.png){:height="18px"} | Flamengo | |
 | ![](/thumb/galatasaray.png){:height="18px"} | Galatasaray | |
 | ![](/thumb/genoa.png){:height="18px"} | Genoa | |
 | ![](/thumb/goteborg.png){:height="18px"} | Goteborg | |
 | ![](/thumb/inter.png){:height="18px"} | Inter | |
 | ![](/thumb/juve.png){:height="18px"} | Juventus | |
+| ![](/thumb/liverpool.png){:height="18px"} | Liverpool | |
 | ![](/thumb/manutd.png){:height="18px"} | Manchester United | |
 | ![](/thumb/marsiglia.png){:height="18px"} | Marsiglia | |
 | ![](/thumb/milan.png){:height="18px"} | Milan | | 
