@@ -50,6 +50,18 @@ eq: <img src="/icons/eq.png" width="18">
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/boca.png" width="18"> (Cesare) Boca Juniors
 
+## Ottavo torneo
+
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/liverpool.png" width="18"> (Tomer) Liverpool
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/tottenham.png" width="18"> (Dino) Tottenham
+
+## Nono torneo
+
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/italy.png" width="18"> (Tomer) Italia
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/scottland.png" width="18"> (Gabo) Scozia
+
 
 ---------
 
@@ -69,18 +81,18 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 
 | &#35; | Giocatore | Pti | |
 |---|---|---|
-| 1 | Tomer | 7.13 | {{page.eq}} |
-| 2 | Cesare | 3.88 | {{page.eq}} |
-| 3 | Gabo | 2.50 | {{page.eq}} |
-| 4 | Dino | 2.13 | {{page.eq}} |
+| 1 | Tomer | 7.33 | {{page.eq}} |
+| 2 | Cesare | 3.78 | {{page.eq}} |
+| 3 | Gabo | 3.00 | {{page.eq}} |
+| 4 | Dino | 1.89 | {{page.eq}} |
 | 5 | Michele | 2.00 | {{page.eq}} |
-| 6 | Ivan | 1.67 | {{page.eq}} |
-| 7 | Lomba | 0.75 | {{page.eq}} |
+| 6 | Ivan | 1.75 | {{page.eq}} |
+| 7 | Lomba | 0.78 | {{page.eq}} |
 | 8 | Leo | 0.50 | {{page.eq}} |
-| 9 | Sape | 0.50 | {{page.eq}} |
-| 10 | Silvia | 0.50 | {{page.up}} |
-| 11 | Vale | 0.25 | {{page.up}} |
-| 12 | Borro | 0.10 | {{page.dw}} |
+| 9 | Silvia | 0.50 | {{page.up}} |
+| 10 | Sape | 0.33 | {{page.dw}} |
+| 11 | Borro | 0.10 | {{page.up}} |
+| 12 | Vale | 0.25 | {{page.dw}} |
 
 {: .pure-table}
 
