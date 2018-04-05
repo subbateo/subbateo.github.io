@@ -91,7 +91,7 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 | 8 | Leo | 0.50 | {{page.eq}} |
 | 9 | Silvia | 0.50 | {{page.up}} |
 | 10 | Sape | 0.33 | {{page.dw}} |
-| 11 | Borro | 0.10 | {{page.up}} |
+| 11 | Borro | 0.25 | {{page.up}} |
 | 12 | Vale | 0.25 | {{page.dw}} |
 
 {: .pure-table}
