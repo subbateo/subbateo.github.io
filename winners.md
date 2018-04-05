@@ -84,8 +84,8 @@ Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *st
 | 1 | Tomer | 7.33 | {{page.eq}} |
 | 2 | Cesare | 3.78 | {{page.eq}} |
 | 3 | Gabo | 3.00 | {{page.eq}} |
-| 4 | Dino | 1.89 | {{page.eq}} |
-| 5 | Michele | 2.00 | {{page.eq}} |
+| 4 | Michele | 2.00 | {{page.up}} |
+| 5 | Dino | 1.89 | {{page.dw}} |
 | 6 | Ivan | 1.75 | {{page.eq}} |
 | 7 | Lomba | 0.78 | {{page.eq}} |
 | 8 | Leo | 0.50 | {{page.eq}} |
