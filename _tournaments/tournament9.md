@@ -2,7 +2,8 @@
 layout: page
 title: Nono torneo
 inghilterra: <img src="/thumb/england.png" width="18"> (Cesare) Inghilterra
-olanda: <img src="/thumb/netherland.png" width="18"> (Sape) Olanda
+olanda: <img src="/thumb/netherlands.png" width="18"> (Sape) Olanda
+scozia: <img src="/thumb/scotland.png" width="18"> (Gabo) Scozia
 italia: <img src="/thumb/italy.png" width="18"> (Tomer) Italia
 croazia: <img src="/thumb/croatia.png" width="18"> (Lomba) Croazia
 spagna: <img src="/thumb/spain.png" width="18"> (Borro) Spagna
