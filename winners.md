@@ -62,6 +62,12 @@ eq: <img src="/icons/eq.png" width="18">
 
 <img src="/icons/second.png" width="18"> <img src="/thumb/scottland.png" width="18"> (Gabo) Scozia
 
+## Decimo torneo
+
+<img src="/icons/trophy.png" width="18"> <img src="/thumb/westham.png" width="18"> (Lomba) West Ham
+
+<img src="/icons/second.png" width="18"> <img src="/thumb/wimbledon.png" width="18"> (Tomer) Wimbledon
+
 
 ---------
 
@@ -76,23 +82,22 @@ I punti base vengono calcolati sommando quelli ottenuti secondo lo schema seguen
 - 4pt al vincitore della finale
 
 In caso di parità nel girone, i punti vengono sommati e divisi equamente (es. due prime a pari merito in un girone da 3 riceveranno 1.5pt).
-I punti così calcolati vengono normalizzati calcolando la media aritmetica sulle partecipazioni. 
+I punti così calcolati vengono normalizzati calcolando la media aritmetica sulle partecipazioni.
 Inoltre, vengono portati a 0 i punti dei giocatori con un numero di presenze *strettamente inferiore* al 20%.
 
 | &#35; | Giocatore | Pti | |
 |---|---|---|
-| 1 | Tomer | 7.33 | {{page.eq}} |
-| 2 | Cesare | 3.78 | {{page.eq}} |
+| 1 | Tomer | 6.95 | {{page.eq}} |
+| 2 | Cesare | 3.70 | {{page.eq}} |
 | 3 | Gabo | 3.00 | {{page.eq}} |
-| 4 | Michele | 2.00 | {{page.up}} |
-| 5 | Dino | 1.89 | {{page.dw}} |
-| 6 | Ivan | 1.75 | {{page.eq}} |
-| 7 | Lomba | 0.78 | {{page.eq}} |
-| 8 | Leo | 0.50 | {{page.eq}} |
-| 9 | Silvia | 0.50 | {{page.up}} |
-| 10 | Sape | 0.33 | {{page.dw}} |
-| 11 | Borro | 0.25 | {{page.up}} |
-| 12 | Vale | 0.25 | {{page.dw}} |
+| 4 | Ivan | 1.75 | {{page.eq}} |
+| 5 | Michele | 1.71 | {{page.dw}} |
+| 6 | Dino | 1.70 | {{page.dw}} |
+| 7 | Lomba | 1.45 | {{page.eq}} |
+| 8 | Leo | 0.67 | {{page.eq}} |
+| 9 | Silvia | 0.50 | {{page.eq}} |
+| 10 | Borro | 0.25 | {{page.up}} |
+| 11 | Sape | 0.25 | {{page.dw}} |
+| 12 | Vale | 0.25 | {{page.eq}} |
 
 {: .pure-table}
-
